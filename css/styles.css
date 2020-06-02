@@ -1,0 +1,25 @@
+h1 {
+  font: arial;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: blue;
+}
+
+
+body.white-background {
+  color: black;
+  background-color: white;
+}
+
+body.black-background {
+  color: white;
+  background-color: black;
+}
+
+button.btn {
+  margin: 3px;
+  border: 3px solid black;
+  padding: 2px;
+  color: rgb(189, 27, 27);
+}
